@@ -1,5 +1,5 @@
 [
-            {
+   {
         "elim": "",
         "status": "CapturarSolicitud",
         "id": 1,
@@ -36,7 +36,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      }, 
+      {
         "elim": "",
         "status": "Especialista Comex (Rechazos)",
         "id": 1,
@@ -54,7 +55,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      },  
+      {
         "elim": "",
         "status": "ProcesoPendienteContraloria",
         "id": 1,
@@ -72,7 +74,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      },  
+      {
         "elim": "",
         "status": "ProcesoPendienteCartera",
         "id": 1,
@@ -90,7 +93,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      }, 
+    {
         "elim": "",
         "status": "FondosDeFomento",
         "id": 1,
@@ -108,7 +112,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      }, 
+      {
         "elim": "",
         "status": "EnviadaNafinet",
         "id": 1,
@@ -126,7 +131,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      }, 
+    {
         "elim": "",
         "status": "AprobadoNafinet",
         "id": 1,
@@ -144,7 +150,8 @@
         "A": "",
         "Z": "",
         "C": ""
-      },  {
+      }, 
+      {
         "elim": "",
         "status": "RechaxoNafinet",
         "id": 1,

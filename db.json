@@ -1,6 +1,4 @@
-{
-    "clientes":[
-        
+[    
     {
         "elim": "",
         "status": "CapturarSolicitud",
@@ -184,6 +182,5 @@
         "Z": "",
         "C": ""
       }
-]
-    
 }
+]
